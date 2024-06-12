@@ -1,6 +1,6 @@
 # ACT (Automated Conversion Tasks)
 
-ACT automates the process of converting task data into images, extracting information from those images, and updating tasks based on the extracted information.
+ACT automates the process of converting task data into images, extracting information from those images, and updating tasks based on the extracted information. This tool is designed to fit into a larger project aimed at automating the replacement of tasks on an existing UI, leveraging computer vision to detect characters and perform automated replacements.
 
 ## Setup Instructions
 
