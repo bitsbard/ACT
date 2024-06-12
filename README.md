@@ -14,7 +14,7 @@ ACT automates the process of converting task data into images, extracting inform
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/ACT.git
+   git clone https://github.com/bitsbard/ACT.git
    cd ACT
    ```
 
