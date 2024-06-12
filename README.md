@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # ACT (Automated Conversion Tasks)
 
 ACT automates the process of converting task data into images, extracting information from those images, and updating tasks based on the extracted information.
